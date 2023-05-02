@@ -1,0 +1,11 @@
+body{
+            background-image: url("lighthouse.jpg") ;
+            background-repeat: no-repeat;
+            background-attachment: fixed;  
+            background-size: cover;
+}
+
+#1{
+            font-size: bold;
+
+}
